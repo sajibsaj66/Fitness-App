@@ -7,7 +7,7 @@ This is Simple fitness application. This app have four screeen. Using api gettin
 
 ## Authors
 
-- [@Somrat-H](https://www.github.com/Somrat-H)
+- [@Shamsul Alam Sajib](https://github.com/sajibsaj66)
 
 
 
